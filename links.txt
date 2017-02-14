@@ -1,2 +1,3 @@
 https://github.com/toddm92/cfn-templates
 https://github.com/satterly/AWSCloudFormation-samples
+https://github.com/awslabs/aws-cloudformation-templates/tree/master/aws/services
